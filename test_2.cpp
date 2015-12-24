@@ -9,6 +9,7 @@ int main()
 	cout << "Hello world!" << endl;
 	cout << "Hi Hi " << endl;
 	cout << "Welcome to the Hell" << endl;
+	cout << "HiHiHi" << endl;
 	cout << "Bye~" << endl;
 
 
